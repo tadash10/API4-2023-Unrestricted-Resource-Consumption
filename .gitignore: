@@ -1,0 +1,12 @@
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore IDE-specific files (for example, for Visual Studio Code)
+.vscode/
+
+# Ignore any local configuration files
+config.ini
+
+# Ignore virtual environment files (for Pipenv)
+Pipfile
+Pipfile.lock
