@@ -48,3 +48,5 @@ Feedback and Support
 If you have any questions or need support regarding your contributions, feel free to open an issue or contact the maintainers.
 
 Thank you for your valuable contributions!
+
+by Tadash10
