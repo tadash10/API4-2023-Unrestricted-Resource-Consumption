@@ -1,4 +1,4 @@
-API Rate Limiter Script
+.API Rate Limiter Script
 Table of Contents
 
     Introduction
